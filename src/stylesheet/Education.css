@@ -1,0 +1,38 @@
+.container-course{
+    max-width: 1170px;
+    width:100%;
+    height: 368px;
+    margin:10px 10px 50px;
+    display:flex;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9% );
+}
+
+.image-course{
+    height:100%;
+    width:auto;
+}
+
+.container-text-course{
+    text-align: center;
+    padding:40px;
+    font-family: Lato, sans-serif;
+    font-weight:400;
+    line-height:1.5rem;
+    width: 100%;
+}
+.name-course{
+    font-size: 1.2rem;
+    margin-top:15px;
+    padding-bottom:10px;
+}
+
+.data-course{
+    font-size: 1rem;
+    text-align: justify;
+}
+
+.name-institution-course{
+    font-size: 1rem;
+}
